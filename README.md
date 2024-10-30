@@ -1,2 +1,2 @@
 # projetos
-projetos web
+Criando a landing page da Netflix e outros projetos
